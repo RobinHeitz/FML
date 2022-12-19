@@ -1,0 +1,9 @@
+name: fml_lecture7
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+
